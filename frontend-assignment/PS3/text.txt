@@ -1,0 +1,20 @@
+
+Metadata is used to provide additional information about a web page to search engines and web browsers. It is typically included in the head section of an HTML document and is not displayed on the page itself.
+
+Some common types of metadata include:
+
+Title tag: The title tag is used to define the title of a web page. This is typically displayed in the browser's title bar and is also used as the main heading in search engine results.
+
+Meta description: The meta description provides a brief summary of what a web page is about. This is often displayed in search engine results and can be used to entice users to click through to the page.
+
+Keywords: Keywords are used to indicate the main topics or themes covered on a web page. While keywords are no longer used by Google as a ranking factor, they can still be used by other search engines.
+
+Author: The author metadata provides information about who wrote the content on a web page. This can be useful for establishing credibility and expertise.
+
+Robots: The robots metadata is used to tell search engines whether to index a web page or not. This can be useful for pages that are not meant to be indexed, such as login pages or thank-you pages.
+
+In summary, metadata is used to provide additional information about a web page to search engines and web browsers. This information can help improve the visibility and usability of the page.
+
+
+
+

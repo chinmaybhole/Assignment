@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .title {
+    width: 100%;
+    text-align: center;
+    color: green;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    background-image: url("bg2.jpg");
+  background-size: cover;
+  background-position: center;
+  }
+  
+  .navigation {
+    width: 20%;
+    background-color: #f2f2f2;
+  }
+
+  .navigation a:hover {
+    font-weight: bold;
+    color: red;
+    background-color: yellow;
+  }
+  .content {
+    width: 60%;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  @media only screen and (min-width: 768px) {
+    .navigation {
+      width: 20%;
+      order: 1;
+    }
+    
+    .content {
+      width: 80%;
+      order: 2;
+    }
+  }
+    

@@ -1,0 +1,17 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px; /* Half of the height */
+    margin-left: -100px; /* Half of the width */
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
+
+.text{
+    padding-top: 50px;
+    text-align: center;
+
+    color: black;
+}
